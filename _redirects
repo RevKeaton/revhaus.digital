@@ -1,0 +1,4 @@
+https://www.revhaus.digital/* https://revhaus.digital/:splat 301!
+http://revhaus.digital/* https://revhaus.digital/:splat 301!
+/blog/:slug /blog.html 200
+/* /index.html 200
